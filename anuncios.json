@@ -1,0 +1,19 @@
+// anuncios.json
+{
+  "anuncios": [
+    {
+      "nombre": "Bicicleta",
+      "venta": true,
+      "precio": 230.15,
+      "foto": "http://m1.paperblog.com/i/1/17437/bici-nueva-L-1.jpeg",
+      "tags": [ "lifestyle", "motor"]
+    },
+    {
+      "nombre": "iPhone 3GS",
+      "venta": false,
+      "precio": 50.00,
+      "foto": "https://media.carphonewarehouse.com/is/image/cpw2/iphone-6GREY?$xl-standard$",
+      "tags": [ "lifestyle", "mobile"]
+    }
+  ]
+}
